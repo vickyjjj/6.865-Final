@@ -1,0 +1,14 @@
+_build/
+a10
+basicImageManipulation*
+Eigen/
+filtering*
+Image*
+lodepng*
+Makefile
+matrix*
+pixel*
+pset10.pdf
+python/
+timing*
+Output/
